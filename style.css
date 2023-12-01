@@ -5,7 +5,6 @@
     justify-content: space-between;
     padding: 20px 80px;
     background-color: #e3e6f3;
-    background-size: auto;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
 }
 #navbar{
@@ -34,7 +33,7 @@
     content: "";
     width: 30%;
     height: 2px;
-    background: #089289 ;
+    background: #17a097 ;
     bottom: -4px;
     left: 20px;
     position: absolute;
